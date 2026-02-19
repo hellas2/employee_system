@@ -1,0 +1,9 @@
+﻿  boss.cpp
+  employee.cpp
+  main_menu.cpp
+  manger.cpp
+  staff.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  worker.cpp
+  正在生成代码...
+  emplyer_system.vcxproj -> D:\C++\employer_system\employer_system\x64\Debug\emplyer_system.exe
